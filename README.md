@@ -23,7 +23,12 @@ Note: See [wiki page/installation](https://github.com/APEbbers/FreeCAD-Ribbon/wi
 
 1. Download the layout JSON file from this repository.
 2. Open FreeCAD.
-3. Open the FreeCAD-Ribbon settings by pressing `Alt + L` or by navigating to the settings menu.
+3. Open the FreeCAD-Ribbon layout settings by pressing `Alt + L` or by navigating via the gear icon.
 4. In the settings menu, click on the "Import Layout" button.
 5. Select the downloaded JSON file and click "Open".
 6. The layout will be imported, you may need to restart FreeCAD for the changes to take effect.
+
+## Button text
+
+1. Open the FreeCAD-Ribbon preferences by pressing `Alt + P` or by navigating via the gear icon.
+2. In `General > Show text` check every box
